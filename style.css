@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans|Rubik');
+h1{
+  font-family: 'Rubik', sans-serif;
+  font-size: 30px
+}
+h1,h4,h5{
+  text-align: center;
+}
+@import url('https://fonts.googleapis.com/css?family=PT+Sans');
+body{
+  font-family: 'PT Sans', sans-serif;
+  font-size: 18px;
+}
+  h2{
+    font-family: 'Rubik', sans-serif;
+    font-size: 25px
+  }
